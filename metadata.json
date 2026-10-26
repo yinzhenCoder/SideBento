@@ -1,0 +1,8 @@
+{
+  "name": "SideBento - 浏览器微工具侧边栏扩展",
+  "description": "将传统繁琐的网页书签简化为 iOS 小组件风格的 Bento 卡片，悬浮挂载于屏幕左侧，零挤压原网页的极客微工具工作台。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
